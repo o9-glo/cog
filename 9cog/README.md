@@ -1,0 +1,66 @@
+# 9cog
+
+Organization in the **cog** enterprise.
+
+- **GitHub**: https://github.com/9cog
+- **Repositories**: 54
+
+## Repositories
+
+- [99ML](./99ML.md)
+- [co9n8no](./co9n8no.md)
+- [KoboldAI](./KoboldAI.md)
+- [ko6ai](./ko6ai.md)
+- [koboldcpp](./koboldcpp.md)
+- [Azurite-Cognitive-Architecture-v0-for-Generative-Agents](./Azurite-Cognitive-Architecture-v0-for-Generative-Agents.md)
+- [cm-dev](./cm-dev.md)
+- [openrouter-runner](./openrouter-runner.md)
+- [ai-sdk-provider](./ai-sdk-provider.md)
+- [aichat](./aichat.md)
+- [galatea-frontend](./galatea-frontend.md)
+- [paphos-backend](./paphos-backend.md)
+- [plingua](./plingua.md)
+- [torch9](./torch9.md)
+- [cogpsh](./cogpsh.md)
+- [ghostintheguileshell](./ghostintheguileshell.md)
+- [autogen](./autogen.md)
+- [actors](./actors.md)
+- [ai](./ai.md)
+- [mergekit](./mergekit.md)
+- [SillyTavern](./SillyTavern.md)
+- [TavernAI](./TavernAI.md)
+- [Tavern](./Tavern.md)
+- [text-generation-webui](./text-generation-webui.md)
+- [text-generation-webui-extensions](./text-generation-webui-extensions.md)
+- [SillyTavern-Extras](./SillyTavern-Extras.md)
+- [AI-Horde](./AI-Horde.md)
+- [horde-sdk](./horde-sdk.md)
+- [hordelib](./hordelib.md)
+- [horde-model-reference-frontend](./horde-model-reference-frontend.md)
+- [horde-model-reference](./horde-model-reference.md)
+- [deployments](./deployments.md)
+- [AI-Horde-Worker](./AI-Horde-Worker.md)
+- [haidra-core](./haidra-core.md)
+- [AI-Horde-CLI](./AI-Horde-CLI.md)
+- [haidra-architecture](./haidra-architecture.md)
+- [mistral-inference](./mistral-inference.md)
+- [mistral-finetune](./mistral-finetune.md)
+- [cookbook](./cookbook.md)
+- [megablocks](./megablocks.md)
+- [auth0.js](./auth0.js.md)
+- [UnrealEngineCog](./UnrealEngineCog.md)
+- [ms-swift](./ms-swift.md)
+- [modelscope](./modelscope.md)
+- [ms-agent](./ms-agent.md)
+- [org-hyperhq](./org-hyperhq.md)
+- [deeptree](./deeptree.md)
+- [ocguix](./ocguix.md)
+- [git-module](./git-module.md)
+- [guix-install-action](./guix-install-action.md)
+- [p49dyn](./p49dyn.md)
+- [stripe-connect-furever](./stripe-connect-furever.md)
+- [agent-toga-bkp](./agent-toga-bkp.md)
+- [cbase](./cbase.md)
+
+---
+*Auto-generated microcosm mapping - 2025-12-27*

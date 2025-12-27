@@ -1,0 +1,10 @@
+# text-generation-webui
+
+Repository in **9cog** organization (cog enterprise)
+
+- **Organization**: [9cog](https://github.com/9cog)
+- **Repository**: [text-generation-webui](https://github.com/9cog/text-generation-webui)
+- **Enterprise**: cog
+
+---
+*Auto-generated microcosm mapping*
